@@ -205,7 +205,7 @@ Project Structure
 Manufacturing-Operations-Analytics/
 │
 ├── data/
-│   ├── manufacturing_operations_synthetic_5000_12vars.csv
+│   ├── manufacturing_operations_synthetic_5000_12vars.xlsx
 │   └── manufacturing_operations_cleaned.csv
 │
 ├── python/
